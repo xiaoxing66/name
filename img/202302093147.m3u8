@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.836111,
+https://p0.meituan.net/shaitu/e1e4099bd5ebc256656fc598cc7bf6a31269878.png
+#EXTINF:4.512633,
+https://p0.meituan.net/shaitu/6e1b9594cf209a9ab0a8112617d7cafb634062.png
+#EXTINF:1.475567,
+https://p0.meituan.net/shaitu/da2a63ebacf7bc6c40c65a1019e88016273478.png
+#EXT-X-ENDLIST
