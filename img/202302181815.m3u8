@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.448022,
+https://p2.ssl.qhimg.com/t0173a36a91e4f432e9.png
+#EXTINF:8.333333,
+https://p4.ssl.qhimg.com/t0100ba9e7d38e71dde.png
+#EXTINF:7.566667,
+https://p5.ssl.qhimg.com/t0132f45a41efc56097.png
+#EXT-X-ENDLIST
