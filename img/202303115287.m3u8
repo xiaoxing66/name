@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.023222,
+https://puap.qpic.cn/qqgameedu/0/7ad3e58249288c7ff63b7b3f643612cc/0
+#EXTINF:5.000000,
+https://puap.qpic.cn/qqgameedu/0/bd7e67d8d43689addb2e6aea48dc779e/0
+#EXTINF:5.000000,
+https://puap.qpic.cn/qqgameedu/0/5ff5c1515e9abe0e05ff58a8e9d2b039/0
+#EXTINF:1.300000,
+https://puap.qpic.cn/qqgameedu/0/7f216fa2dfd54e87c98f19e431abcd20/0
+#EXT-X-ENDLIST
